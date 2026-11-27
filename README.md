@@ -4,6 +4,8 @@
 
 Rain is a native macOS screen saver. Drops run down a misted window pane while the street behind it is a blur of headlights, sodium lamps and neon. It runs in real time in Metal. Nothing is pre-rendered and no video is looped, so it never shows the same thing twice.
 
+https://github.com/user-attachments/assets/1ae42c4f-cede-4613-9cfa-1e23ab27f5ca
+
 ## What you'll see
 
 **Water that behaves like water.** Rain lands on the glass as tiny beads that grow and merge. Once a drop gets heavy enough it breaks loose and slides down in fits and starts, catching on the glass, drifting sideways and swallowing every drop in its path. Each drop is a tiny lens that shows an upside-down view of the street behind it.
